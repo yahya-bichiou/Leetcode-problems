@@ -1,4 +1,3 @@
 So to solve this problem we have to browse the array and select i as the first iterator than make j the second iterator and keep adding i+j until we find the solution.
-
 Doing this with a for loop is a bit slow because once we find the solution it still goes on until it finishes the table
 Doing it with a while loop is much faster because once we find the solution we stop the loop and return the result immediately
