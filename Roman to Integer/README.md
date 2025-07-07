@@ -1,0 +1,3 @@
+To solve this problem you need to create a hashmap of the roman letters with the corresponding value and then do a while loop to browse the string if the letter of index i is bigger than the value of the next letter then it adds the value to the res variable (ex: VI)
+if the value of the letter is smaller than the next then it substracts the small value from the big one and adds them to res (ex: IX)
+and the iterator i is incremented by 2 because we read two letters at once

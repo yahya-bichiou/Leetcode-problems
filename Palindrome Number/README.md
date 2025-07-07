@@ -1,0 +1,2 @@
+so the solution is easy, all you have to do is make a string out of the number and browse the string in the opposite way and add each letter to a new string
+if the second string is equal to the original one then it returns true, else it returns false.
