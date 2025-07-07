@@ -1,0 +1,1 @@
+To solve this problem i used a HashSet to remove duplicates and then i added them to an ArrayList to order them and to return them to the initial nums array
