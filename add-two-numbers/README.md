@@ -1,0 +1,1 @@
+I used the first 3 while loops to sum the two ListNodes in the finalList Array then I used a for loop to fix the numbers >9 then I created a finalNode from the finalList and returned it.
