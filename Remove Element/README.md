@@ -1,0 +1,1 @@
+To solve this problem i used an ArrayList "finalArray" and stored the nums array in it, then I checked for occurences of the val in the ArrayList and removed them. Finally I stored the finalArray in the nums array and returned its size.
