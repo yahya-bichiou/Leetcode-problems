@@ -1,0 +1,2 @@
+To solve this problem I made a variable i that browses the string s, first i checked for - and + mark then i checked for zeros then i put the numbers in a new string and added - if the var sign is false
+And lastly i added a try catch to check if the number is > than Integer.MAX_VALUE or < Integer.MIN_VALUE so it can be rounded
