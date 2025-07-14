@@ -1,0 +1,2 @@
+So to solve this problem i converted x to long to avoid overflow i then used neg to check if the number is negative so I can then deal with the - sign, I reversed n using a string s and a StringBuilder.
+finally I added the - sign if needed and checked if n is bigger than MAX or smaller than MIN of Integer
