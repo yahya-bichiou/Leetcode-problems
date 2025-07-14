@@ -1,0 +1,1 @@
+To solve this just use the built in function indexOf.
